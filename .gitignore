@@ -2,3 +2,4 @@
 .env 
 LiveClock.js
 tailwind.config.js
+server.js
